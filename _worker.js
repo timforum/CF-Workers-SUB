@@ -18,7 +18,7 @@ https://sub.xf.free.hr/auto
 
 let urls = [];
 let subconverter = "subconverter.mengshihua.workers.dev"; //在线订阅转换后端(SUBAPI.fxxk.dedyn.io)，目前使用CM的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
-let subconfig = "https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_MultiCountry.ini"; //订阅配置文件
+let subconfig = "https://github.com/tindy2013/subconverter/blob/master/base/config/ACL4SSR_Online_Full_AdblockPlus.ini"; //订阅配置文件 (https://raw.githubusercontent.com/cmliu/ACL4SSR/main/Clash/config/ACL4SSR_Online_MultiCountry.ini)
 let subProtocol = 'https';
 
 export default {
